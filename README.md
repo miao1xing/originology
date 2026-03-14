@@ -1,42 +1,78 @@
-# Originology
+# 原点学（Originology）
 
-Originology is a methodological framework that examines how judgments arise from different structural starting points (origins).
+原点学，并不是一个已经完成的体系。  
+它更像一种观察世界、组织判断、追问结构的方式。  
 
-Author: 郭康 (Guo Kang)  
-Year: 2026
+它所处理的，不只是“对”与“错”，  
+也不是单纯的立场之争；  
+它更关心的是：
 
-## Core idea
+判断从何开始；  
+边界如何成立；  
+代价如何归属；  
+结构如何稳定；  
+个体、群体与文明何以失稳，又何以自保。
 
-Origin → Situation → Judgment
+因此，原点学并不试图直接替代既有学科；  
+它更像一套最低结构语言，  
+用于重新整理那些常被混淆的问题。
 
-Different origins generate different situations, and different situations shape the judgments that follow.
+## 仓库说明
 
-If the origin is not examined, any argument can appear self-consistent.
+本仓库用于存放原点学体系下的公开文本。  
+目前主要包括：
 
-## Public texts
+- **《原点学总纲》**  
+  原点学的最低入口文本，用以说明其基本立场、最低纲领与使用方式。
 
-### Originology Outline
+- **《时空假说》**  
+  原点学体系下，对“时空可谈论性的最低结构条件”所作之前物理表述。  
+  其不直接替代现有物理理论，  
+  亦不主张已提出完整经验数学体系；  
+  其所追问者，乃“时空何以可被设定为判断背景”之问题。
 
-A methodological framework discussing how judgments begin, how situations are structured by origins, and how responsibility may ultimately be formed and assigned.
+## 体系关系
 
-Files:
-- `originology-outline.pdf`
-- `originology-outline.docx`
+若原点学所问者，  
+是判断从何开始；  
 
-### Spacetime Origin Hypothesis
+则《时空假说》所问者，  
+乃时空作为判断背景，本身又从何成立。  
 
-A structural hypothesis proposing that distinguishable spacetime requires an origin (anchor) as a minimal structural condition.
+二者论域不同，  
+然其追问方向一以贯之。  
 
-Files:
-- `spacetime-origin-hypothesis.pdf`
-- `spacetime-origin-hypothesis.docx`
+前者偏向个体、群体、关系与文明层面；  
+后者则进一步延展至前物理层面。
 
-## Related work
+## 当前边界
 
-Related texts within the broader framework include:
+本仓库中的文本，均为公开版本。  
+它们并不宣称已经完成终局论证；  
+亦不以“推翻一切既有理论”为目标。  
 
-- *Civilization Hypothesis*
-- *1+1=2: On the Presence of the Finite Subject*
-- *Ren Wei Ren*
+它们所做的，  
+更多是重新打开那些常被默认关闭的问题。  
 
-At present, only the public texts listed above are included in this repository.
+因此，本仓库更适合作为：
+
+- 原点学体系的公开入口
+- 分支文本的整理位置
+- 后续版本更新与结构沉淀的基础仓库
+
+## 文件说明
+
+当前仓库内主要文件包括：
+
+- `原点学总纲`
+- `《时空假说》正式公开版 v2`
+
+若你首先接触本仓库，  
+建议先读《原点学总纲》；  
+若希望继续进入原点学在前物理层面的延展，  
+再读《时空假说》。
+
+## 说明
+
+本仓库为原点学公开文本仓库。  
+后续若有新版本，原则上仍在此持续更新。
