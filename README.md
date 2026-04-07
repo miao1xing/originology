@@ -1,9 +1,11 @@
-# 原点学
+# 原点学 Originology
 
-原点学公开文本仓库。
+原点学（Originology）公开文本仓库。
 
 此仓库收录原点学公开文本，作为当前统一入口。
 其所处理者，不先是答案，而先是问题的位置、边界、判断、归属、可校与结构稳定之问题。
+
+Originology is a meta-theoretical text system concerned not first with answers, but with the structure of judgment: where judgment begins, how boundaries are formed, how responsibility and cost are assigned, and how civilization remains calibratable and stable.
 
 ---
 
