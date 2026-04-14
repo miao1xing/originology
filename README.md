@@ -1,4 +1,4 @@
-# 原点学 Originology
+# 原点学 Originology 作者：郭康
 
 原点学（Originology）公开文本仓库。
 
