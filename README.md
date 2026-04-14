@@ -73,7 +73,7 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 其与《人为人》互为照应：前者偏向“有限主体”的在场问题，后者偏向“人为人”的现实结构问题。
 
 对应文件：  
-`00《1+1=2：论有限主体在场》底层文稿 作者定稿版_2026-02-03.pdf.pdf`
+`00《1+1=2：论有限主体的在场》底层文稿 作者定稿版_2026-02-03.pdf`
 
 ### 7. 《原点学与战争》
 
